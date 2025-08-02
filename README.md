@@ -18,7 +18,7 @@ Sou um **Analista de Sistemas** e **estudante de programação** apaixonado por 
 
 ### 🌱 O que estou aprendendo
 
-Estou sempre em busca de novos desafios! Além da faculdade, me aprofundo em novas tecnologias para expandir minhas habilidades em desenvolvimento Front-End.
+Estou sempre em busca de novos desafios! Além da faculdade, me aprofundo em novas tecnologias para expandir minhas habilidades em desenvolvimento Front-End, como JavaScript, React.Js, Git, Html e Css.
 
 ---
 
